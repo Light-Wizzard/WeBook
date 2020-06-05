@@ -14,5 +14,17 @@ https://github.com/Light-Wizzard/WeBookServer
 
 https://github.com/Light-Wizzard/WeBookClient
 
+## Wiki
+
+https://github.com/Light-Wizzard/WeBook/wiki
+
+0. Home:
+https://github.com/Light-Wizzard/WeBook/wiki/0.Home
+
+1. Code Style:
+https://github.com/Light-Wizzard/WeBook/wiki/1.Code.Style
+
+2. Getting Started:
+https://github.com/Light-Wizzard/WeBook/wiki/2.Getting.Started
 
 End of Read me.
