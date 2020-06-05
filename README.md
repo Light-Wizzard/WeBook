@@ -27,4 +27,9 @@ https://github.com/Light-Wizzard/WeBook/wiki/1.Code.Style
 2. Getting Started:
 https://github.com/Light-Wizzard/WeBook/wiki/2.Getting.Started
 
+
+## Status
+
+Linux: [![Travis Build Status](https://travis-ci.org/Light-Wizzard/WeBookServer.svg?branch=master)](https://travis-ci.org/Light-Wizzard/WeBookServer)
+
 End of Read me.
