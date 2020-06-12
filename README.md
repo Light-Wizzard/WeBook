@@ -19,13 +19,13 @@ https://github.com/Light-Wizzard/WeBookClient
 https://github.com/Light-Wizzard/WeBook/wiki
 
 0. Home:
-https://github.com/Light-Wizzard/WeBook/wiki/0.Home
+https://github.com/Light-Wizzard/WeBook/wiki
 
-1. Code Style:
-https://github.com/Light-Wizzard/WeBook/wiki/1.Code.Style
+0. WeBook: https://github.com/Light-Wizzard/WeBook/wiki/0.WeBook
 
-2. Getting Started:
-https://github.com/Light-Wizzard/WeBook/wiki/2.Getting.Started
+1. Code Style: https://github.com/Light-Wizzard/WeBook/wiki/1.Code.Style
+
+2. Getting Started: https://github.com/Light-Wizzard/WeBook/wiki/2.Getting.Started
 
 
 ## Status
