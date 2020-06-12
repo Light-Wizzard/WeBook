@@ -14,11 +14,8 @@ https://github.com/Light-Wizzard/WeBookServer
 
 https://github.com/Light-Wizzard/WeBookClient
 
-## Wiki
+## Wiki Home
 
-https://github.com/Light-Wizzard/WeBook/wiki
-
-0. Home:
 https://github.com/Light-Wizzard/WeBook/wiki
 
 0. WeBook: https://github.com/Light-Wizzard/WeBook/wiki/0.WeBook
