@@ -1,32 +1,11 @@
 # WeBook
-WeBook is pronounced Web Book, it is a Content Builder outputing into formats like: ePub, PDF, and HTML
 
-I am not going to post the code till I have a working version of it.
+WeBook is pronounced Web Book, the concept is you can write a Book, 
+it will handle output formats like HTML for a Web Book, PDF,
+Movie Scripts, Storyboards, and many more formats.
 
-This Repository will only have Examples of using both the Client and Server.
+I am starting from scratch working with Microsoft Visual Studio 2022, using MAUI and C#, for cross-platform applications.
 
-
-## WeBookServer
-
-https://github.com/Light-Wizzard/WeBookServer
-
-## WeBookClient
-
-https://github.com/Light-Wizzard/WeBookClient
-
-## Wiki Home
-
-https://github.com/Light-Wizzard/WeBook/wiki
-
-0. WeBook: https://github.com/Light-Wizzard/WeBook/wiki/0.WeBook
-
-1. Code Style: https://github.com/Light-Wizzard/WeBook/wiki/1.Code.Style
-
-2. Getting Started: https://github.com/Light-Wizzard/WeBook/wiki/2.Getting.Started
+Currently, MAUI does not support Linux, but I was told it will at some point in time.
 
 
-## Status
-
-Linux: [![Travis Build Status](https://travis-ci.org/Light-Wizzard/WeBookServer.svg?branch=master)](https://travis-ci.org/Light-Wizzard/WeBookServer)
-
-End of Read me.
