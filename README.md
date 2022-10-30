@@ -220,6 +220,6 @@ I will use Visual Studio or VS,
 and make sure it is cross-platform,
 so you get the same expericane no matter what OS you are on.
 
-See [Wiki]() for more informaton.
+See [Wiki](https://github.com/Light-Wizzard/WeBook/wiki) for more informaton.
 
 ### End of Page
