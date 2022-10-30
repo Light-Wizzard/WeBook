@@ -177,6 +177,49 @@ but in a Virtual Reality Envirment.
 
 # Book
 
+The Book is just a bunch of pages that you want to organize into something, what that is does not matter,
+this book can be a Speach you need to make, or a project you are working on,
+and you use it to write down all the things you need to remember.
 
+If you want to write about your life, this is the Application, and you can use the Game or the Application.
+
+To make a Moive we need to start as a Book, or Screenplay.
+
+Depending on your Style, you will pick a book, Screenplay, Stageplay, documentary, idea, concept, project, or other categoies,
+these will give you access to a specal set of themes, templates, and Styles,
+while you still have access to all of them, and can use them all in one book,
+it really comes down to what the styles do, for example, looke at this Scrrenplay:
+
+```
+INT. DAY
+
+The main actor FLESH sits in front of a remote vehicle talking into its camera and explaining why.
+
+                                     FLESH
+
+Hello, my name is ...
+
+```
+
+The way it formats is not the same as a book, so you have to have two files, 
+but you want to make it easy and allow you to go both ways,
+if you write the above in a Sceenplay, and want it in your book,
+just hightlight it, and pick book, and then go into the book,
+and place your cursor where it goes, and paste it in, 
+same for a book, plus if you edit anything marked as a link,
+it update the other documents as well, 
+you have the option to set link, or unlinked at any time.
+
+To get Spell and Grammar checking into this app, 
+might require some work, so I need it to be compatible with 3rd Party products.
+
+The App and Game, are both ways to do the same thing,
+but in a different enverionment,
+I have to write the Editor in C++,
+I will use Visual Studio or VS, 
+and make sure it is cross-platform,
+so you get the same expericane no matter what OS you are on.
+
+See [Wiki]() for more informaton.
 
 ### End of Page
