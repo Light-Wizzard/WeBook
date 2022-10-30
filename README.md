@@ -11,6 +11,7 @@ I am starting from scratch working with Microsoft Visual Studio 2022, using .Net
 
 * [Concept](#Concept)
 * [Functionality](#Functionality)
+* [Features](#Features)
 * [Game](#Game)
 * [Book](#Book)
 
@@ -71,8 +72,17 @@ it has many aspects to it:
 
 * Book
 * Screenplay
+* Stageplay
 * Documentary
+* Radio
+* Podcast
 * Website
+* Notes
+* Instructions
+* Speach
+* Idea or Concept
+* Buisness plan
+* Work Project
 
 It will feature a set of tools that allows you to markup your text,
 using HTML features found in all Web Projects,
@@ -122,6 +132,16 @@ Database support depends on OS:
 The Wizard is part of the app, it can be found under Help, it will help you to create somehthing,
 using a series of steps, guiding you through each step.
 
+# Features
+
+Some of the main Features are:
+
+* Email
+* Chat
+* SMS
+* Voice Call
+* Voice Video Call
+
 # Game
 
 This application will have a Game,
@@ -133,7 +153,30 @@ Game Engines I will be using:
 * Unreal Engine 5
 * Unity
 
+The concept of a Game is very simple, I can create an Enviroment for a conference meating,
+you have Email to send out envitaions, people can join in many ways,
+but everyone must be running the Game,
+it can be deployed to many types of Devices, a few are:
+
+* Website
+* Local Host
+* VR headsets
+* Applicaton
+
+The Website gives you a text version of that is going on, and is more benifical for blind users,
+Local Host is a way to deploy a Web presentation.
+
+The best option is VR headsets, but all methods require the Applicatoin.
+
+This applicaton is writen for Blind or Sight imparied, as well as Deft or hard of hearing, which describes me,
+so I will talk about feature for all realities.
+
+You can move around in VR, look at the Book shelf for all the books you have writen,
+and you can fully edit them in the Game, it is meant to do the same things,
+but in a Virtual Reality Envirment.
+
 # Book
+
 
 
 ### End of Page
