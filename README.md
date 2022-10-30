@@ -4,8 +4,9 @@ WeBook is pronounced Web Book, the concept is you can write a Book,
 it will handle output formats like HTML for a Web Book, PDF,
 Movie Scripts, Storyboards, and many more formats.
 
-I am starting from scratch working with Microsoft Visual Studio 2022, using .Net, MAUI, C#, and Blazer for cross-platform applications.
+I am starting from scratch working with Microsoft Visual Studio (VS) 2022, using .Net, MAUI, C#, C++, and Blazer for cross-platform applications.
 
+I will use Unreal Engine and Unity to write a Game that will do the same thing the Applicaton does.
 
 ## Table Of Contents
 
@@ -14,9 +15,13 @@ I am starting from scratch working with Microsoft Visual Studio 2022, using .Net
 * [Features](#Features)
 * [Game](#Game)
 * [Book](#Book)
-
+* [Users](#Users)
 
 # Concept
+
+The main concept is to write a cross-platform Application,
+and write it again using a Game Engine,
+so you can go all tasks in differnt Enviromnets.
 
 Currently, MAUI does not support Linux, but I was told it will at some point in time,
 so I am building this with that promose in mind,
@@ -40,23 +45,28 @@ Currenty, I have a Linux VPS where I host the Light Wizzard Videos and Books,
 but plan to get a Windows and Mac VPS account, 
 so I can have downloadable Application packages for the following Operations Systems (OS).
 
-Current Support:
+Current Supported OS:
 
 * Windows
 * Android
 * Web Application
 
-Future Support:
+Future Support OS:
 
 * Mac (Need VPS account)
 * iOS (Need VPS account)
 * Web Application
 
-Waiting for Support in Visual Studio for Linux
+Waiting for Support in Visual Studio for Linux OS and PI
 
 * Linux
 * Raspberry PI
 * Web Application
+
+This project will use another one of my GitHub projects called [The Stone Crystal Wizard](https://github.com/Light-Wizzard/The-Stone-Crystal-Wizard),
+to demo this project, by using the Data from this project, 
+so show off this project, 
+as such, I will use this Applicatoin to write that story.
 
 # Functionality
 
@@ -221,5 +231,19 @@ and make sure it is cross-platform,
 so you get the same expericane no matter what OS you are on.
 
 See [Wiki](https://github.com/Light-Wizzard/WeBook/wiki) for more informaton.
+
+# Users
+
+The Users are people who will use this Applicaton, either the App or Game,
+and are the reason for writing this.
+
+This is a muliple user app, so you can have team of people working on it, even the general public if you make it public,
+so it has a feature that allows you to grant permissions to strangers, but you will put them through a hoop to get them permissions,
+this loop means they have to verify their email address, and you get their IP, and Email address verified, 
+and I will write a functoin that can check to see if the IP is a VPN, but it also can use SMS, or voice ID.
+
+Every time a new user edits a page, another branch is created, you can delete one person for the final, should you not like what the wrote.
+
+This project uses Git, it can be local or on GitHub.
 
 ### End of Page
