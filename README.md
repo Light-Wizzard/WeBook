@@ -246,8 +246,6 @@ and you have a Narrorator Style, and an Actor Style,
 so that you can have a style for everything you want to,
 and write code to deal with each of these Styles differently.
 
-See [Wiki](https://github.com/Light-Wizzard/WeBook/wiki) for more informaton.
-
 # Users
 
 The Users are people who will use this Applicaton, either the App or Game,
@@ -263,3 +261,5 @@ Every time a new user edits a page, another branch is created, you can delete on
 This project uses Git, it can be local or on GitHub.
 
 ### End of Page
+
+See [Wiki](https://github.com/Light-Wizzard/WeBook/wiki) for more informaton.
