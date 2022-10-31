@@ -152,6 +152,11 @@ Some of the main Features are:
 * Voice Call
 * Voice Video Call
 
+Every devices has its own features, for example, a Smartphone has optoins you cannot get on a Desktop,
+like acceleration, not to mention SMS is not on most Desktops when I wrote this,
+but I do with them in my app, so I will try to make that happen,
+but to the best of my abiltity, you might have to link your Smartphone to this app to get those capabilities.
+
 # Game
 
 This application will have a Game,
@@ -185,6 +190,8 @@ You can move around in VR, look at the Book shelf for all the books you have wri
 and you can fully edit them in the Game, it is meant to do the same things,
 but in a Virtual Reality Envirment.
 
+This Game depends on a lot of VS C++ code.
+
 # Book
 
 The Book is just a bunch of pages that you want to organize into something, what that is does not matter,
@@ -200,16 +207,15 @@ these will give you access to a specal set of themes, templates, and Styles,
 while you still have access to all of them, and can use them all in one book,
 it really comes down to what the styles do, for example, looke at this Scrrenplay:
 
-```
-INT. DAY
 
-The main actor FLESH sits in front of a remote vehicle talking into its camera and explaining why.
+**INT. DAY**
 
-                                     FLESH
+*_The main actor FLESH sits in front of a remote vehicle talking into its camera and explaining why._*
+
+                                     *FLESH*
 
 Hello, my name is ...
 
-```
 
 The way it formats is not the same as a book, so you have to have two files, 
 but you want to make it easy and allow you to go both ways,
@@ -229,6 +235,15 @@ I have to write the Editor in C++,
 I will use Visual Studio or VS, 
 and make sure it is cross-platform,
 so you get the same expericane no matter what OS you are on.
+
+The above Screenplay format also shows off the fact that every line in a script, 
+might be something different, 
+for example, INT, or EXT or a few others, 
+are indicators as to where this takes place, so it needs to be a different Style,
+so you use the Style called "Scence",
+and you have a Narrorator Style, and an Actor Style,
+so that you can have a style for everything you want to,
+and write code to deal with each of these Styles differently.
 
 See [Wiki](https://github.com/Light-Wizzard/WeBook/wiki) for more informaton.
 
