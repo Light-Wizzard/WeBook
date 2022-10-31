@@ -215,6 +215,7 @@ it really comes down to what the styles do, for example, looke at this Scrrenpla
                                      *ACTOR*
 
 Hello, my name is ...
+
 **EXT. THE END**
 
 The way it formats is not the same as a book, so you have to have two files, 
