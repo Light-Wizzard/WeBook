@@ -210,12 +210,12 @@ it really comes down to what the styles do, for example, looke at this Scrrenpla
 
 **INT. DAY**
 
-*_The main actor FLESH sits in front of a remote vehicle talking into its camera and explaining why._*
+*_The main actor sits in front of a remote vehicle talking into its camera and explaining why._*
 
-                                     *FLESH*
+                                     *ACTOR*
 
 Hello, my name is ...
-
+**EXT. THE END**
 
 The way it formats is not the same as a book, so you have to have two files, 
 but you want to make it easy and allow you to go both ways,
